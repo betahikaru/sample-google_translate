@@ -1,0 +1,7 @@
+# emacs
+*~
+
+# ruby
+.bundle
+vendor
+Gemfile.lock
