@@ -15,6 +15,7 @@ Run command following.
 
 ```
 git clone git@github.com:betahikaru/sample-google_translate.git
+cd sample-google_translate
 bundle install --path vendor/bundle
 cp .env.sample .env
 ```
@@ -28,7 +29,7 @@ Cation, calling API, you should pay $20 per 1 M characters of text.
 Check [Pricing](https://developers.google.com/translate/v2/pricing) page on Google.
 
 ```
-bundle exec ruby app.app
+bundle exec ruby app.rb
 ```
 
 # Licence
