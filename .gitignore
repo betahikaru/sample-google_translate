@@ -5,3 +5,7 @@
 .bundle
 vendor
 Gemfile.lock
+
+# rubygems
+# dotenv
+.env
